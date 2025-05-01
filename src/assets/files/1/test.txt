@@ -1,0 +1,8 @@
+Souhaites-tu un script shell qui libère automatiquement le port 5000 si occupé ?
+
+L'extension principale qui permet à VS Code de colorier les fichiers et dossiers selon leur type (Python, JavaScript, dossier, etc.) dans l'explorateur est :
+
+ Material Icon Theme
+ Nom complet : PKief.material-icon-theme
+ Elle fournit une coloration et des icônes personnalisées pour chaque type de fichier (ex: .py, .json, .js, .yaml) et dossier (__pycache__, tests, etc.).
+📁 Les dossiers changent d’icône selon leur nom : src, venv, node_modules, etc.
